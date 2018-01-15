@@ -7,7 +7,7 @@
 
 New Features:
 
-* [#933](https://github.com/ckeditor/ckeditor-dev/issues/1441): [Magic Line](https://ckeditor.com/cke4/addon/magicline) line element can now be identifiable using `data-cke-magicline-line="1"` attribute.
+* [#933](https://github.com/ckeditor/ckeditor-dev/issues/1441): [Magic Line](https://ckeditor.com/cke4/addon/magicline) line element can now be identifiable using `data-cke-magic-line="1"` attribute.
 * [#933](https://github.com/ckeditor/ckeditor-dev/issues/933): [File Browser](https://ckeditor.com/cke4/addon/filetools) plugin can now upload files using XHR requests. This allows for setting custom HTTP headers using [`config.fileTools_requestHeaders`](http://docs.ckeditor.test/#!/api/CKEDITOR.config-cfg-fileTools_requestHeaders) configuration option.
 
 Fixed Issues:
